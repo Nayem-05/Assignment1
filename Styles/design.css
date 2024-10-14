@@ -88,6 +88,7 @@ why dev section part */
     background: rgba(13, 19, 33, 0.02);
     width: 1014px;
     height: 1239px;
+    margin-bottom: 0px;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -275,6 +276,7 @@ margin: 29px 0px;
 .inspiration{
  width: 1014px;
 height: 690px;
+margin-top: 15px;
 margin-left: 200px;
 display: flex;
 flex-direction: column;
@@ -325,6 +327,7 @@ margin-top: 20px;
 .support{
     width: 1020px;
     height: 230px;
+    margin-top: 100px;
     display: flex;
     margin-left: 250px;
     margin-right: 300px;
