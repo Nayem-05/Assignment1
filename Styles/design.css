@@ -5,7 +5,7 @@
 .hero-bg{
     background-image: url('../assets/Hero-bg.png');
    
-    width: 1250px;
+    width: 1600px;
     height: 568px;
     display: flex;
     justify-content: center;
@@ -93,6 +93,7 @@ why dev section part */
     justify-content: flex-start;
     align-items: center;
     gap: 9;
+    margin:15px 300px ;
     padding: 71px 86px 71px 86px;
 }
 .why-content{
@@ -274,8 +275,7 @@ margin: 29px 0px;
 .inspiration{
  width: 1014px;
 height: 690px;
-left: 131px;
-right: 135px;
+margin-left: 200px;
 display: flex;
 flex-direction: column;
 justify-content: flex-start;
@@ -323,9 +323,11 @@ margin-top: 20px;
 
 /* This is the support section */
 .support{
-    width: 1014px;
-    height: 278px;
+    width: 1020px;
+    height: 230px;
     display: flex;
+    margin-left: 250px;
+    margin-right: 300px;
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
@@ -452,7 +454,9 @@ text-decoration: none;
 .foot{
 width: 1281px;
 height: 96px;
+
 margin-top: 200px 0px 0px 0px;
+margin-left: 100px;
 
 gap: 32;
 padding: 32px 150px 32px 150px;
@@ -476,9 +480,10 @@ padding: 0px;
 
 /* Current-target part */
 .current-target{
-    width: 1014px;
+    width: 900px;
     height: 409px;
     display: flex;
+    margin-left: 120px;
 flex-direction: column;
 justify-content: flex-start;
 align-items: center;
@@ -549,7 +554,7 @@ letter-spacing: 0%;
 text-align: center;
 }
 .full-box{
-    width: 1012px;
+    width: 600px;
     height: 265px; 
     display: flex;
 flex-direction: row;
@@ -653,6 +658,7 @@ margin: 6px 0px;
     letter-spacing: 0%;
     text-align: left;  
 }
+
 .box-link{
 color: rgb(13, 19, 33);
 font-size: 16px;
@@ -661,5 +667,5 @@ line-height: 19px;
 letter-spacing: 0%;
 text-align: left;
 text-decoration-line: underline;
-Content
+
 }
